@@ -1,5 +1,5 @@
 # PEC 3 - Escapa del Laberinto
-##Título: Juego Escapa del Laberinto.
+## Título: Juego Escapa del Laberinto.
 <p><strong> Nivel Educativo: </strong> Ciclo Formativo de Grado Superior </p>
 <p><strong> Curso: </strong> DAM, DAW o ASIR </p>
 <p><strong> Conocimientos del alumnado I: </strong> Tipos de Datos, Constantes y Variables </p>
